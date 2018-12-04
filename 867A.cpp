@@ -35,8 +35,7 @@ for(int i=0;i<x;i++){
 
 
 }
-if(fsea<=fsan) cout<<"NO";
-else cout<<"YES";
+(fsea<=fsan)?cout<<"NO":cout<<"YES";
 }
 
 
