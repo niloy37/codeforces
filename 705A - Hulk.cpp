@@ -1,6 +1,8 @@
 //https://codeforces.com/problemset/problem/705/A
+//codeforces round 366 , Div 2
 /*
 @author havoc
+
 */
 #include<bits/stdc++.h>
 
