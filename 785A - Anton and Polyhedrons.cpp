@@ -1,4 +1,6 @@
 //https://codeforces.com/problemset/problem/785/A
+//Codeforces , round #404 Div 2. Problem(A)
+//Solution to Anton and Polyhedrons , c++
 #include<bits/stdc++.h>
 using namespace std;
 //main method
