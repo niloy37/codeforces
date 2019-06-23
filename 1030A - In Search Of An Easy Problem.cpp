@@ -1,4 +1,6 @@
 //https://codeforces.com/problemset/problem/1030/A
+//Technocup Elimination round 1 , 2019
+//Problem(A), Codeforces 2019
 
 #include<bits/stdc++.h>
 
