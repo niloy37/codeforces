@@ -1,3 +1,4 @@
+//solution to codeforces problem number 158-A , Problem title - Next Round , file format cpp , compile through gcc ++17
 #include<bits/stdc++.h>
 using namespace std;
 
