@@ -1,3 +1,4 @@
+//builtin func c++11
 #include<bits/stdc++.h>
 using namespace std;
 int main () {
