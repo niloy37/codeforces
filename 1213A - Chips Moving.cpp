@@ -14,3 +14,4 @@ int main ()
     }
     cout<<min(oddCount, n-oddCount)<<endl;
 }
+//sr
