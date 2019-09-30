@@ -14,3 +14,4 @@ int main ()
         cout<<at+free*b<<endl;
     }
 }
+//githu
