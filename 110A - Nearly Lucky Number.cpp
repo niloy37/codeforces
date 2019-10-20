@@ -12,3 +12,4 @@ for(char a : s){
 (luckyCount == 4 || luckyCount == 7)?cout<<"YES":cout<<"NO";
 
 }
+//notaslucky
