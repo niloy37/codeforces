@@ -13,3 +13,4 @@ int main () {
 	//cout<<find(n,a)<<endl;
 	find(n,a)-1> b ? cout<<b+1 : cout<< find(n,a);
 }
+//ac
