@@ -12,3 +12,4 @@ while(cin>>n){
     cout<<count<<endl;
   }
 }
+//up1
