@@ -26,3 +26,4 @@ int main ( int argc, char** argv){
 	cout<<rank<<endl;
 	return 0;
 }
+//a[v.charAt(i)]
