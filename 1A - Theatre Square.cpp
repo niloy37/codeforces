@@ -26,3 +26,4 @@ long long int ans = c1*c2;
 cout<<ans<<endl;
 
 }
+//ch1
