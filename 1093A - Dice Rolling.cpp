@@ -15,4 +15,4 @@ int main (){
         }
     }
 }
-//verdict : AC
+//verdict : AC2
