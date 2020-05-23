@@ -18,4 +18,4 @@ else{
     cout<<(counter*2 -1);
 }
 
-}
+}//lt2
