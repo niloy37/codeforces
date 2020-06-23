@@ -1,4 +1,4 @@
-//tanya and stairways
+//tanya and stairways adn
 #include<map>
 #include <iostream>
 using namespace std;
