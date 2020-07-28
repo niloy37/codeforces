@@ -14,3 +14,4 @@ prev = x[1];
 }
 cout<<grp;
 }
+//stop
